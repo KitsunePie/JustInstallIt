@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JustInstallIt</string>
+    <string name="module_desc">无视MIUI包管理器黑名单列表</string>
+</resources>
